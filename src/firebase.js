@@ -4,12 +4,12 @@ import { getFirestore, /*connectFirestoreEmulator*/  } from "firebase/firestore"
 import { getStorage, /*connectStorageEmulator*/ } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: ""
+  apiKey: "AIzaSyBvFq1uKA03LHWQ35-SPwlCI2DsyVG7WGE",
+  authDomain: "pithub-repo.firebaseapp.com",
+  projectId: "pithub-repo",
+  storageBucket: "pithub-repo.firebasestorage.app",
+  messagingSenderId: "95583116042",
+  appId: "1:95583116042:web:d87240e6c78af623b538f3"
 };
 
 const app = initializeApp(firebaseConfig);
