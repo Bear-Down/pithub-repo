@@ -16,10 +16,10 @@ Scrum Master: Erick Hernandez
 | RC-016 | As a developer, I want to create a login page. | -- | -- | -- | -- | -- |
 | RC-017 | As a user, I want to be able to create and login into an account. | -- | -- | -- | -- | -- |
 | RC-018 | As a user, I want to be able to set my videos as public or private. | -- | -- | -- | -- | -- |
-| RC-021 | For the backend, I want to implement Node.js and Express server to host the functionalities. | -- | -- | -- | -- | -- |
+| RC-021 | As a developer, for the backend, I want to implement Node.js and Express server to host the functionalities. | -- | -- | -- | -- | -- |
 | RC-022 | As a developer, I want to verify the security of logins and video files. | -- | -- | -- | -- | -- |
 | RC-025 | As a developer, I want to create a timeline of what it takes to create a command line to upload a file from the command line interface using GO. | -- | -- | -- | -- | -- |
-| RC-029 | Schedule support for the Capstone team's Celebration of Scholarship Lite upcoming events. | -- | -- | -- | -- | -- |
+| RC-029 | As Product Owner, I want to schedule support for the Capstone team's Celebration of Scholarship Lite upcoming events. | -- | -- | -- | -- | -- |
 | RC-031 | As a user, I want to favorite certain videos. | -- | -- | -- | -- | -- |
 | RC-032 | As a user, I would like to commment on videos. | -- | -- | -- | -- | -- |
 | RC-033 | As a user, I would like to search for videos with a search bar. | -- | -- | -- | -- | -- |
