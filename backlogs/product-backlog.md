@@ -11,19 +11,18 @@ Scrum Master: Erick Hernandez
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| RC-013 | As a user, I would like the application to run natively on my iPhone so that I can use it while driving. | 1 | -- | N | -- | -- |
 | RC-015 | As a developer, I want to organize the video files by default as classes, and then there are available filters such as the date and year. Classes > Professor > School Year > Date. | -- | -- | Y | -- | -- |
 | RC-016 | As a developer, I want to create a login page. | -- | -- | Y | -- | -- |
 | RC-017 | As a user, I want to be able to create and login into an account. | -- | -- | N | -- | -- |
 | RC-018 | As a user, I want to be able to set my videos as public or private. | -- | -- | N | -- | -- |
-| RC-021 | For the backend, I want to implement Node.js and Express server to host the functionalities. | -- | -- | Y | -- | -- |
+| RC-021 | As a developer For the backend, I want to implement Node.js and Express server to host the functionalities. | -- | -- | Y | -- | -- |
 | RC-022 | As a developer, I want to verify the security of logins and video files. | -- | -- | Y | -- | -- |
 | RC-025 | As a developer, I want to create a timeline of what it takes to create a command line to upload a file from the command line interface using GO. | -- | -- | Y | -- | -- |
-| RC-029 | Schedule support for the Capstone team's Celebration of Scholarship Lite upcoming events. | -- | -- | N | -- | -- |
+| RC-029 | Schedule support for the Capstone team's Celebration of Scholarship Lite upcoming events. | -- | -- | Y | -- | -- |
 | RC-031 | As a user, I want to favorite certain videos. | -- | -- | N | -- | -- |
 | RC-032 | As a user, I would like to commment on videos. | -- | -- | N | -- | -- |
 | RC-033 | As a user, I would like to search for videos with a search bar. | -- | -- | N | -- | -- |
-| RC-034 | As a user, I want to log in using my university email so that only authorized users can access the platform. | -- | -- | -- | N | -- |
+| RC-034 | As a user, I want to log in using my university email so that only authorized users can access the platform. | -- | -- | N | -- | -- |
 | RC-035 | As a user, I want to remain logged in across sessions so that I do not need to re-authenticate every time I visit the site. | -- | -- | N | -- | -- |
 | RC-036 | As a user, I want to securely log out of my account so that others cannot access my data on shared devices. | -- | -- | N | -- | -- |
 | RC-037 | As a user, I want to create classes and assign videos to them so that my content is organized by course. | -- | -- | N | -- | -- |
